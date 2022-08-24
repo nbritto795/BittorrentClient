@@ -1,4 +1,4 @@
-# bittorrent
+# Bittorrent Client
 
 Group bittorrent assignment
 
